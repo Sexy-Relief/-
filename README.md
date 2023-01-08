@@ -1,4 +1,4 @@
-# Gososil
+# 고급소프트웨어실습 실습자료
 서강대학교 2022-2 고소실 실습 레포
 
 ## 1 : Random number Generator
